@@ -32,7 +32,7 @@ gem "bootsnap", require: false
 gem 'bootstrap', '~> 5.3.0'
 
 gem 'sassc-rails'
-gem 'font-awesome-sass', '~> 6.1.2'
+gem 'font-awesome-sass', '~> 6.7.2'
 
 
 group :development, :test do
